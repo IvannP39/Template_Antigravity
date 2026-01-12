@@ -2,4 +2,3 @@
 toolbarMode = "minimal" # Masque le bouton Deploy et la plupart des menus
 
 [ui]
-hideSidebarNav = false # Si tu veux garder ta barre latérale
